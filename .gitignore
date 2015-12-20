@@ -1,0 +1,4 @@
+*.o
+peervpn
+*.bak
+peervpn.conf
